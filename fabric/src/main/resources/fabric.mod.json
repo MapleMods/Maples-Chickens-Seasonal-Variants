@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 1,
+    "id": "${mod_id}",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "${description}",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+        "homepage": "https://maplesmods.github.io/",
+        "issues": "https://github.com/MapleMods/Maples-Chicken-Collection/issues",
+        "sources": "https://github.com/MapleMods/Maples-Chicken-Collection"
+    },
+    "license": "${license}",
+    "icon": "${mod_id}.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+          "io.github.maplemods.${mod_id}.FabricMod"
+        ],
+        "client": [
+          "io.github.maplemods.${mod_id}.FabricModClient"
+        ]
+    },
+    "mixins": [
+        "${mod_id}.mixins.json",
+        "${mod_id}.fabric.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${fabric_loader_version}",
+        "fabric-api": "*",
+        "minecraft": "~${minecraft_version}",
+        "java": ">=${java_version}",
+        "sapling": ">=2.1"
+    }
+}
+  
