@@ -17,7 +17,7 @@ dependencies {
     api("com.terraformersmc:modmenu:18.0.0-alpha.7") { exclude(module: "fabric-api") }
 
     implementation "mysticdrew:common-networking-fabric:${common_networking_version}"
-    implementation "curse.maven:sapling-1406442:7861054"
+    implementation "curse.maven:sapling-1406442:7872042"
 }
 
 loom {

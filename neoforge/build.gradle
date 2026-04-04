@@ -43,7 +43,7 @@ neoForge {
 
 dependencies {
     implementation "mysticdrew:common-networking-neoforge:${common_networking_version}"
-    implementation "curse.maven:sapling-1406442:7861049"
+    implementation "curse.maven:sapling-1406442:7872038"
 }
 
 sourceSets.main.resources { srcDir 'src/generated/resources' }
