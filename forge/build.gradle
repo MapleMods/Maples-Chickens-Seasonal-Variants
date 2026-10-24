@@ -109,7 +109,7 @@ dependencies {
     implementation('net.sf.jopt-simple:jopt-simple:5.0.4') { version { strictly '5.0.4' } }
 
     implementation fg.deobf("mysticdrew:common-networking-forge:${common_networking_version}-${minecraft_version}")
-    implementation fg.deobf("curse.maven:sapling-1406442:8241140")
+    implementation fg.deobf("curse.maven:sapling-1406442:9310778")
 }
 
 jar.finalizedBy('reobfJar')
