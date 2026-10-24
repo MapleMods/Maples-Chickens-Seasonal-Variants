@@ -28,7 +28,7 @@ dependencies {
     annotationProcessor group: 'io.github.llamalad7', name: 'mixinextras-common', version: '0.3.5'
 
     implementation "mysticdrew:common-networking-common:${common_networking_version}-${minecraft_version}"
-    implementation "curse.maven:sapling-1406442:8241155"
+    implementation "curse.maven:sapling-1406442:9310805"
 }
 
 configurations {

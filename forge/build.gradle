@@ -82,7 +82,7 @@ dependencies {
     annotationProcessor 'net.minecraftforge:eventbus-validator:7.0-beta.10'
 
     implementation "mysticdrew:common-networking-forge:${common_networking_version}-${minecraft_version}"
-    implementation "curse.maven:sapling-1406442:8241155"
+    implementation "curse.maven:sapling-1406442:9310805"
 }
 
 sourceSets.each {
