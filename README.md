@@ -1,9 +1,9 @@
-# Maple's Chicken Collection
+# Maple's Chickens | Seasonal Variants
 
-Minecraft 1.21.1 | Version 1.0
+Minecraft 1.21.1 | Version 2.0
 
 Download the mod here! :)
 
-CurseForge: https://legacy.curseforge.com/minecraft/mc-mods/maples-chicken-collection
+CurseForge: https://curseforge.com/minecraft/mc-mods/maples-chickens-seasonal-variants
 
-Modrinth: https://modrinth.com/mod/maples-chicken-collection
+Modrinth: https://modrinth.com/mod/maples-chickens-seasonal-variants

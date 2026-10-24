@@ -1,7 +1,7 @@
-package io.github.maplemods.mapleschickencollection;
+package io.github.maplemods.mapleschickensseasonalvariants;
 
 
-import io.github.maplemods.mapleschickencollection.data.Constants;
+import io.github.maplemods.mapleschickensseasonalvariants.data.Constants;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 

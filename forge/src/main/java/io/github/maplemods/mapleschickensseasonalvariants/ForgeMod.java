@@ -1,6 +1,6 @@
-package io.github.maplemods.mapleschickencollection;
+package io.github.maplemods.mapleschickensseasonalvariants;
 
-import io.github.maplemods.mapleschickencollection.data.Constants;
+import io.github.maplemods.mapleschickensseasonalvariants.data.Constants;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 

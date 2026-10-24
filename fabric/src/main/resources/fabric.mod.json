@@ -9,8 +9,8 @@
     ],
     "contact": {
         "homepage": "https://maplesmods.github.io/",
-        "issues": "https://github.com/MapleMods/Maples-Chicken-Collection/issues",
-        "sources": "https://github.com/MapleMods/Maples-Chicken-Collection"
+        "issues": "https://github.com/MapleMods/Maples-Chickens-Seasonal-Variants/issues",
+        "sources": "https://github.com/MapleMods/Maples-Chickens-Seasonal-Variants"
     },
     "license": "${license}",
     "icon": "${mod_id}.png",
@@ -32,7 +32,7 @@
         "fabric-api": "*",
         "minecraft": "~${minecraft_version}",
         "java": ">=${java_version}",
-        "sapling": ">=2.1"
+        "sapling": ">=3.1"
     }
 }
   

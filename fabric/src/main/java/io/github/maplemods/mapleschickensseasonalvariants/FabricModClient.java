@@ -1,4 +1,4 @@
-package io.github.maplemods.mapleschickencollection;
+package io.github.maplemods.mapleschickensseasonalvariants;
 
 import net.fabricmc.api.ClientModInitializer;
 

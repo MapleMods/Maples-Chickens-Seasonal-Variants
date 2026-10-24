@@ -85,7 +85,7 @@ dependencies {
     implementation('net.sf.jopt-simple:jopt-simple:5.0.4') { version { strictly '5.0.4' } }
 
     implementation "mysticdrew:common-networking-forge:${common_networking_version}-${minecraft_version}"
-    implementation "curse.maven:sapling-1406442:8241148"
+    implementation "curse.maven:sapling-1406442:9310791"
 }
 
 publishing {

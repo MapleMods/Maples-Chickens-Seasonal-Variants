@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "*"
 license = "${license}"
-issueTrackerURL="https://github.com/MapleMods/Maples-Chicken-Collection/issues"
+issueTrackerURL="https://github.com/MapleMods/Maples-Chickens-Seasonal-Variants/issues"
 
 [[mods]]
     modId = "${mod_id}"
@@ -22,7 +22,7 @@ issueTrackerURL="https://github.com/MapleMods/Maples-Chicken-Collection/issues"
 [[dependencies.${mod_id}]]
     modId="sapling"
     type="required"
-    versionRange="[2.1,)"
+    versionRange="[3.1,)"
     ordering="NONE"
     side="BOTH"
 
